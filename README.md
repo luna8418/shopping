@@ -1,5 +1,5 @@
 # shopping
-DiUS shopping code implementation
+DiUS shopping code implementation - original task could be found here https://gist.github.com/codingricky/2913880
 
 1. Please import the project into Eclipse with java8 and junit4.
 2. Please run junit test CheckoutTest, it covers all 3 scenarios in the requirements.
